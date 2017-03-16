@@ -1,0 +1,14 @@
+{
+  mqtt: {
+    host: 'localhost',
+    port: 1883,
+    username: null,
+    password: null,
+    secure: false,
+    topic: 'automatic'
+  },
+  automatic: {
+    client_id: null,
+    client_secret: null
+  }
+}

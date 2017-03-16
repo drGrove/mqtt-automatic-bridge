@@ -1,0 +1,32 @@
+{
+  "name": "mqtt-automatic-bridge",
+  "version": "1.0.0",
+  "description": "Automatic MQTT Bridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drGrove/mqtt-automatic-bridge.git"
+  },
+  "keywords": [
+    "MQTT",
+    "Automatic",
+    "MQTT",
+    "Automatic",
+    "Bridge"
+  ],
+  "author": "Danny Grove <danny@drgrovellc.com> (http://dannygrove.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drGrove/mqtt-automatic-bridge/issues"
+  },
+  "homepage": "https://github.com/drGrove/mqtt-automatic-bridge#readme",
+  "dependencies": {
+    "config": "^1.25.1",
+    "mqtt": "^2.4.0",
+    "socket.io-client": "^1.7.3",
+    "socketio-wildcard": "^0.4.0"
+  }
+}
